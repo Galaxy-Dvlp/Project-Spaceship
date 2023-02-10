@@ -1,0 +1,138 @@
+ul {/*REMOVE A FORMATACAO PADRAO*/
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #93BFCF;
+    /*FIXA "BARRA DE MENU" NO TOPO*/
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;/*COLOCA ELEMENTOS PERTO UM DO OUTRO*/
+    border-right: 1px solid #EEE9DA;/*COLOCA BORDA ENTRE OS ELEMENTOS*/
+}
+li:last-child {/*TIRA A BORDA DO ULTIMO ELEMENTO SOMENTE*/
+    border-right: none;
+}
+
+li a {
+    display: block;/*FAZ TODA AREA DO LINK SER CLICAVEL*/
+    color: #332C39;
+    text-align: center;
+    padding: 14px 16px;/*COLOCA ESPACAMENTO ENTRE OS ELEMENTOS*/
+    text-decoration: none;
+  }
+
+li a:hover {/*MUDA A COR QUANDO PASSA O MOUSE*/
+    background-color: #BDCDD6;
+    color: black;
+}
+
+.active {/*CRIA UMA CLASSE QUE MUDA A COR DO ELEMENTO*/
+    background-color: #EEE9DA;
+  }
+
+.main-login{
+    width: 100vw;/*MÁXIMO DA LARGURA DA TELA*/
+    height: 100vh;/*MÁXIMO DA ALTURA DA TELA*/
+
+    background-color: #453C67;
+
+    display: flex;/*FAZ AS COISAS FICAREM LADO A LADO*/
+
+    justify-content: center;/*JUSTIFICA EIXO X*/
+    align-items: center;/*JUSTIFICA EIXO Y*/
+}
+
+.left-login{
+    width: 50vw;/*VAI OCUPAR 50% DA LARGURA*/
+    height: 100vh;
+
+    display: flex;/*FAZ AS COISAS FICAREM LADO A LADO*/
+
+    justify-content: center;/*JUSTIFICA EIXO X*/
+    align-items: center;/*JUSTIFICA EIXO Y*/
+
+    flex-direction: column;/*COLOCA AS COISAS EMBAIXO UMA DA OUTRA MESMO USANDO FLEX*/
+}
+
+.left-login > h1 {
+    color: #F2F7A1;
+}
+
+.right-login{
+    width: 50vw;/*VAI OCUPAR 50% DA LARGURA*/
+    height: 100vh;
+
+    display: flex;/*FAZ AS COISAS FICAREM LADO A LADO*/
+
+    justify-content: center;/*JUSTIFICA EIXO X*/
+    align-items: center;/*JUSTIFICA EIXO Y*/
+}
+
+.card-login{
+    width: 60%;/*TAMANHO DA "DIV" QUE ESTÁ O CARD LOGIN, E NÃO A % DA TELA*/
+
+    display: flex;
+
+    justify-content: center;/*JUSTIFICA EIXO X*/
+    align-items: center;/*JUSTIFICA EIXO Y*/
+
+    flex-direction: column;/*COLOCA AS COISAS EMBAIXO UMA DA OUTRA MESMO USANDO FLEX*/
+    
+    padding: 30px 35px;
+
+    background-color: #6D67E4;
+
+    border-radius: 20px;/*DEIXA A BORDA ARREDONDADA*/
+
+    box-shadow: 0px 10px 40px;/*APLICA SOMBRA NA CAIXA*/
+}
+
+.card-login > h1{/*MUDA ARTIFICIOS DO "H1" DENTRO DA CAIXA DE LOGIN*/
+    color: #F2F7A1;
+    font-weight: 800;/*MUDA GROSSURA DA FONTE*/
+    margin: 0;/*DIMINUI A MARGEM DA CAIXA*/
+}
+
+.textfield{/*DEIXA OS INPUTS DE LOGIN ALINHADOS*/
+    display: flex;
+    flex-direction: column;/*FAZ FICAR EM COLUNA, MESMO EM FLEX*/
+
+    align-items: flex-start;/*ALINHA O FLEX NA ESQUERDA*/
+
+    justify-content: center;/*JUSTIFICA O TEXTO E COLOCA NO CENTRO DA CAIXA*/
+
+    margin: 10px 0px;/*AFASTA OS INPUTS UM DO OUTROS*/
+}
+
+.textfield > input{
+    width: 100%;
+
+    border: none;/*TIRA A BORDA DO INPUT*/
+    border-radius: 10px;
+
+    padding: 15px;/*AUMENTA O TAMANHO DO INPUT*/
+    background-color: #453C67;
+
+    color: #EEE9DA;/*MUDA COR DA FONTE DO PLACEHOLDER E DA ESCRITA DO INPUT*/
+    font-size: 12pt;
+
+    outline: none;/*TIRA A MARCAÇÃO DE SELECIONADO DO INPUT*/
+
+    box-sizing: border-box;
+}
+
+.textfield > label{
+    color: #EEE9DA;/*MUDA COR DA ESCRITA EM CIMA DOS INPUTS*/
+    margin-bottom: 10px;/*DEFINE O TAMANHO DA MARGEM DE BAIXO*/
+}
+
+.btn-login{
+    width: 40%;
+    background-color: white;
+    color: #332C39;
+}
