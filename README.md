@@ -31,10 +31,10 @@ XX/XX/2023 a XX/XX/2023
 | Layout | Figma |
 
 #### > Exclusões do Projeto: 
-
+declaração explícita de tudo o que está fora do escopo do projeto.
 
 #### > Premissas do projeto
-Vamos assumir que
+pressupostos a respeito do projeto. As estimativas do projeto só são válidas enquanto as premissas se confirmarem verdadeiras.
 
 #### > Restrições do Projeto
 Baixo conhecimento inicial da equipe, é necessário considerar um tempo de estudo e de aprendizado para cada parte do projeto
