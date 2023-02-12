@@ -19,13 +19,13 @@
                 <h1>LOGIN</h1>
                 <div class="textfield"><!--INPUT DO USUÁRIO-->
                     <label for="usuario">Usuário</label>
-                    <input type="text" name="usuario" placeholder="Usuário">
+                    <input type="text" name="usuario" placeholder="Usuário" id="login" onfocus="changeColorInput()">
                 </div>
                 <div class="textfield"><!--INPUT DA SENHA-->
                     <label for="senha">Senha</label>
-                    <input type="password" name="senha" placeholder="Senha">
+                    <input type="password" name="senha" placeholder="Senha" id="senha" onfocus="changeColorInput()">
                 </div>
-                <button class="btn-login">Login</button>
+                <button class="btn-login" onclick="login()">Login</button>
             </div>
         </div>
     </div>

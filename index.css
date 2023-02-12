@@ -133,6 +133,9 @@ li a:hover {/*MUDA A COR QUANDO PASSA O MOUSE*/
 
 .btn-login{
     width: 40%;
+    margin-top: 10px;
     background-color: white;
     color: #332C39;
+    border: 3px solid #453C67;
+    border-radius: 10px;
 }
