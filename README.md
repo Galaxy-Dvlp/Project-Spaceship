@@ -24,7 +24,7 @@ XX/XX/2023 a XX/XX/2023
 | Necessidade | Sistema utilizado |
 | :------ | ----------- |
 | Documentação | GitHub |
-| Comunicação | Whatsapp, Google Meet |
+| Comunicação | Whatsapp, Discord |
 | Organização | Click up |
 | Prototipação | |
 | Programação | Visual Studio Code |
