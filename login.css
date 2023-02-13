@@ -1,0 +1,114 @@
+.main-login{/*CAIXA DO LOGIN INTEIRA*/
+    width: 100vw;/*MÁXIMO DA LARGURA DA TELA*/
+    height: 100vh;/*MÁXIMO DA ALTURA DA TELA*/
+
+    background-color: #2C2E43;
+
+    display: flex;/*FAZ AS COISAS FICAREM LADO A LADO*/
+
+    justify-content: center;/*JUSTIFICA EIXO X*/
+    align-items: center;/*JUSTIFICA EIXO Y*/
+}
+
+.left-login{
+    width: 50vw;/*VAI OCUPAR 50% DA LARGURA*/
+    height: 100vh;
+
+    display: flex;/*FAZ AS COISAS FICAREM LADO A LADO*/
+
+    justify-content: center;/*JUSTIFICA EIXO X*/
+    align-items: center;/*JUSTIFICA EIXO Y*/
+
+    flex-direction: column;/*COLOCA AS COISAS EMBAIXO UMA DA OUTRA MESMO USANDO FLEX*/
+}
+
+.left-login > h1 {
+    color: #FFD523;
+}
+
+.left-login-image{
+    width: 35vw;
+}
+
+.right-login{
+    width: 50vw;/*VAI OCUPAR 50% DA LARGURA*/
+    height: 100vh;
+
+    display: flex;/*FAZ AS COISAS FICAREM LADO A LADO*/
+
+    justify-content: center;/*JUSTIFICA EIXO X*/
+    align-items: center;/*JUSTIFICA EIXO Y*/
+}
+
+.card-login{
+    width: 60%;/*TAMANHO DA "DIV" QUE ESTÁ O CARD LOGIN, E NÃO A % DA TELA*/
+
+    display: flex;
+
+    justify-content: center;/*JUSTIFICA EIXO X*/
+    align-items: center;/*JUSTIFICA EIXO Y*/
+
+    flex-direction: column;/*COLOCA AS COISAS EMBAIXO UMA DA OUTRA MESMO USANDO FLEX*/
+    
+    padding: 30px 35px;
+
+    background-color: #595260;
+
+    border-radius: 20px;/*DEIXA A BORDA ARREDONDADA*/
+
+    box-shadow: 0px 10px 40px;/*APLICA SOMBRA NA CAIXA*/
+}
+
+.card-login > h1{/*MUDA ARTIFICIOS DO "H1" DENTRO DA CAIXA DE LOGIN*/
+    color: #FFD523;
+    font-weight: 800;/*MUDA GROSSURA DA FONTE*/
+    margin: 0;/*DIMINUI A MARGEM DA CAIXA*/
+}
+
+.textfield{/*DEIXA OS INPUTS DE LOGIN ALINHADOS*/
+    width: 100%;/*PADRONIZA A LARGURA*/
+    display: flex;
+    flex-direction: column;/*FAZ FICAR EM COLUNA, MESMO EM FLEX*/
+
+    align-items: flex-start;/*ALINHA O FLEX NA ESQUERDA*/
+
+    justify-content: center;/*JUSTIFICA O TEXTO E COLOCA NO CENTRO DA CAIXA*/
+
+    margin: 10px 0px;/*AFASTA OS INPUTS UM DO OUTROS*/
+}
+
+.textfield > input{
+    width: 100%;
+
+    border: none;/*TIRA A BORDA DO INPUT*/
+    border-radius: 10px;/*ARREDONDA*/
+
+    padding: 15px;/*AUMENTA O TAMANHO DO INPUT*/
+    background-color: #B2B1B9;
+
+    color: #FFD523;/*MUDA COR DA FONTE DO PLACEHOLDER E DA ESCRITA DO INPUT*/
+    font-size: 12pt;
+
+    outline: none;/*TIRA A MARCAÇÃO DE SELECIONADO DO INPUT*/
+
+    box-sizing: border-box;
+}
+
+.textfield > label{
+    color: #FFD523;/*MUDA COR DA ESCRITA EM CIMA DOS INPUTS*/
+    margin-bottom: 10px;/*DEFINE O TAMANHO DA MARGEM DE BAIXO*/
+}
+
+.btn-login{
+    width: 100%;
+    padding: 16px 0px;
+    margin: 25px;
+    border: none;
+    border-radius: 8px;
+    font-weight: 800;
+    text-transform: uppercase;
+    outline: none;
+    letter-spacing: 3px;
+    color: #2C2E43;
+    background-color: #FFD523;
+}
