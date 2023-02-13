@@ -1,0 +1,57 @@
+.central-main{
+    margin-top: 50px;
+    justify-content: left;
+    align-items: left;
+    display: flex;
+}
+
+.iniciar-chamado{
+    border: none;
+    border-radius: 8px;
+    margin-left: 1300px;
+    background-color: #FFD523;
+}
+
+.iniciar-chamado > a{
+    text-decoration: none;
+    color: #2C2E43;
+    outline: none;
+    font-weight: 700;
+}
+
+.btn-opcoes > button{
+    align-items: flex-start;
+    width: 15%;
+}
+
+.iniciar-chamado2{
+    display: flex;
+    justify-items: center;
+    margin: 10px;
+    border: none;
+    border-radius: 8px;
+    background-color: #FFD523;
+    text-align: center;
+    padding: 20px 16px;/*ESPAÇAMENTO DOS BOTÕES*/
+    transition: all .3s ease; /*DAR MINI DELAY NO HOVER PARA TER A SENSAÇÃO MAIS SUAVE*/
+
+}
+.iniciar-chamado2:first-child{ /*PEGA O PRIMEIRO ELEMENTO DA CLASSE :) */
+    margin-top: 50px;
+}
+.iniciar-chamado2:hover{
+    display: flex;
+    background-color: #d4b21b;
+    box-shadow: 1px 1px 3px black;
+}
+.iniciar-chamado2 a{ /*TEXTO DO BOTÃO*/
+    padding-top: 8px;
+    text-decoration: none;
+    color: black;
+}
+
+.imgButton{
+    width: auto;
+    height: 30px;
+    margin: 5px;
+}
