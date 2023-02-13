@@ -27,7 +27,7 @@ XX/XX/2023 a XX/XX/2023
 | Comunicação | Whatsapp, Google Meet |
 | Organização | Click up |
 | Prototipação | |
-| Programação | Visual Studio Code, IntelliJ |
+| Programação | Visual Studio Code |
 | Layout | Figma |
 
 #### > Exclusões do Projeto: 
