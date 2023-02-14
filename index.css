@@ -36,4 +36,59 @@ li a:hover {/*MUDA A COR QUANDO PASSA O MOUSE*/
     width: 50px;
 }
 
+#title{
+    text-align: center;
+}
 
+
+/*--------------------------------------------*/
+/*PARTE SOBRE A ÁREA DE APLICATIVOS NA DIREITA*/
+/*--------------------------------------------*/
+.main-apps{
+    width: 30vw;/*VAI OCUPAR 50% DA LARGURA*/
+    height: 100vh;
+
+    display: flex;/*FAZ AS COISAS FICAREM LADO A LADO*/
+
+    flex-direction: column;
+
+    float: right;
+    margin-right: 10px;
+    justify-content: center;/*JUSTIFICA EIXO X*/
+    align-items: center;/*JUSTIFICA EIXO Y*/
+}
+
+.select-apps{
+    width: 100%;
+    flex-direction: initial;/*DEIXA OS BOTÕES LADO A LADO, IGNORANDO O FLEX-DIRECTION ANTERIOR*/
+
+    justify-content: center;/*JUSTIFICA EIXO X*/
+    align-items: center;/*JUSTIFICA EIXO Y*/
+
+    background-color: #595260;
+
+    border-radius: 20px;/*DEIXA A BORDA ARREDONDADA*/
+
+    box-shadow: 0px 10px 20px;/*APLICA SOMBRA NA CAIXA*/
+}
+
+.app{
+    width: 20%;
+    background-color: #FFD523;
+    border: 0;
+    padding: 5px 0px;
+    margin: 10px;
+    border-radius: 8px;
+    margin-left: 50px;
+}
+
+.app > a{
+    text-decoration: none;
+    color: #2C2E43;
+}
+
+.icon-apps{
+    width: 20px;
+    justify-self: center;
+    margin-right: 10px;
+}
