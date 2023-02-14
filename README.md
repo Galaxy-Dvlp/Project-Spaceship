@@ -1,8 +1,9 @@
 # Project Spaceship - Escopo de projeto
-Repositório para organização dos dados do 
+
+Project Spaceship é um futuro software destinado a abrir chamados com qualidade e eficiência. Ele contará com uma Workspace e Planos completamente personalizáveis para sua empresa, além de um layout simples e intuitivo. A previsão do lançamento oficial será em 2024 e contará com 3 meses de teste gratuito em qualquer Plano.
 
 #### > Justificativa de projeto
-Conjunto de argumentos que comprovam a necessidade do projeto.
+Apesar de existir inúmeros softwares do gênero no mercado, a imensa maioria tem duas coisas bem negativas em comum: Baixa qualidade das funções e/ou alto custo de aquisição. Nosso foco é criar uma alternativa acessível e com boa performace para utilização empresarial, visando sanar a grande necessidade do mercado por bons sistemas de gestão.
 
 #### > Termo de abertura	
 Fornece uma descrição de alto nível do produto, serviço ou resultado do projeto a fim de possibilitar o desenvolvimento dos requisitos detalhados. Isso pode ser feito de maneira formal ou informal. 
