@@ -17,6 +17,9 @@
 .identificacao{
     margin-top: 90px;
     flex-direction: column;
+    width: 60%;/*TAMANHO DA "DIV" QUE ESTÁ O CARD LOGIN, E NÃO A % DA TELA*/
+    display: flex;
+    padding: 30px 35px;
 }
 
 .identificacao > input{
