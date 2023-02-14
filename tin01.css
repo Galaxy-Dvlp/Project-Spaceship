@@ -1,0 +1,27 @@
+.main-tin01{
+    width: 100vw;/*MÁXIMO DA LARGURA DA TELA*/
+    height: 100vh;/*MÁXIMO DA ALTURA DA TELA*/
+
+    display: flex;/*FAZ AS COISAS FICAREM LADO A LADO*/
+
+    justify-content: center;/*JUSTIFICA EIXO X*/
+    align-items: center;/*JUSTIFICA EIXO Y*/
+}
+
+.main-tin01 > ul{
+    color: black;
+    background-color: white;
+    display: flex;
+}
+
+.identificacao{
+    margin-top: 90px;
+    flex-direction: column;
+}
+
+.identificacao > input{
+    border-radius: 8px;
+    width: 25%;
+    outline: none;
+    text-decoration: none;
+}

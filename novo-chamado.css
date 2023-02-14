@@ -47,21 +47,12 @@ button > a{
 }
 
 .tipo-tin > button:hover{
-    display: flex;
     background-color: #d4b21b;
     box-shadow: 1px 1px 3px black;
-    justify-content: center;
-    align-items: center;
-    width: auto;
-    height: 30px;
 }
 
 button > a:hover{
     text-decoration: none;
     color: black;
     outline: none;
-    justify-content: center;
-    align-items: center;
-    width: auto;
-    height: 30px;
 }
