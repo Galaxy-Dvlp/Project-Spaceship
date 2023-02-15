@@ -1,3 +1,7 @@
+body{
+    background-color: #B2B1B9;
+}
+
 ul {/*REMOVE A FORMATACAO PADRAO*/
     list-style-type: none;
     margin: 0;

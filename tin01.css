@@ -49,6 +49,8 @@
     width: 40%;
     outline: none;
     text-decoration: none;
+    background-color: #B2B1B9;
+    color: white;
 }
 
 .identificacao > textarea{
@@ -56,6 +58,8 @@
     width: 100%;
     outline: none;
     text-decoration: none;
+    background-color: #B2B1B9;
+    color: white;
 }
 
 .identificacao > li{
