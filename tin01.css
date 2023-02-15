@@ -8,23 +8,64 @@
     align-items: center;/*JUSTIFICA EIXO Y*/
 }
 
+.nome-chamado{
+    display: flex;/*FAZ AS COISAS FICAREM LADO A LADO*/
+
+    justify-content: center;/*JUSTIFICA EIXO X*/
+    align-items: center;/*JUSTIFICA EIXO Y*/
+
+    margin-top: 100px;
+}
+
+.nome-chamado > h1{
+    font-weight: 800;
+    letter-spacing: 3px;
+    background-color: #FFD523;
+    color: #2C2E43;
+    width: 20%;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .main-tin01 > ul{
     color: black;
     background-color: white;
     display: flex;
+    background-color: #B2B1B9;
+    border-radius: 8px;
 }
 
 .identificacao{
-    margin-top: 90px;
+    margin-top: 200px;
     flex-direction: column;
     width: 60%;/*TAMANHO DA "DIV" QUE ESTÁ O CARD LOGIN, E NÃO A % DA TELA*/
     display: flex;
-    padding: 30px 35px;
+    padding: 35px 35px;
 }
 
 .identificacao > input{
     border-radius: 8px;
-    width: 25%;
+    width: 40%;
     outline: none;
     text-decoration: none;
 }
+
+.identificacao > textarea{
+    border-radius: 8px;
+    width: 100%;
+    outline: none;
+    text-decoration: none;
+}
+
+.identificacao > li{
+    background-color: #B2B1B9;
+    text-transform: uppercase;
+    color: #FFD523;
+    font-weight: 800;
+    letter-spacing: 3px;
+}
+
+
+
