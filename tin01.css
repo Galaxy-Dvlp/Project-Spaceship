@@ -31,9 +31,8 @@
 
 .main-tin01 > ul{
     color: black;
-    background-color: white;
     display: flex;
-    background-color: #B2B1B9;
+    background-color: #2C2E43;
     border-radius: 8px;
 }
 
@@ -60,7 +59,7 @@
 }
 
 .identificacao > li{
-    background-color: #B2B1B9;
+    background-color: #2C2E43;
     text-transform: uppercase;
     color: #FFD523;
     font-weight: 800;
