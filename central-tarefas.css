@@ -21,7 +21,6 @@
     text-align: center;
     padding: 20px 16px;/*ESPAÇAMENTO DOS BOTÕES*/
     transition: all .3s ease; /*DAR MINI DELAY NO HOVER PARA TER A SENSAÇÃO MAIS SUAVE*/
-
 }
 .iniciar-chamado2:first-child{ /*PEGA O PRIMEIRO ELEMENTO DA CLASSE :) */
     margin-top: 50px;
