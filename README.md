@@ -6,19 +6,19 @@ Project Spaceship é um futuro software destinado a abrir chamados com qualidade
 Apesar de existir inúmeros softwares do gênero no mercado, a imensa maioria tem duas coisas bem negativas em comum: Baixa qualidade das funções e/ou alto custo de aquisição. Nosso foco é criar uma alternativa acessível e com boa performace para utilização empresarial, visando sanar a grande necessidade do mercado por bons sistemas de gestão.
 
 #### > Termo de abertura	
-Fornece uma descrição de alto nível do produto, serviço ou resultado do projeto a fim de possibilitar o desenvolvimento dos requisitos detalhados. Isso pode ser feito de maneira formal ou informal. 
+O projeto Spaceship é um sistema para abertura de chamados. Ele contará com planos de assinatura com diferentes funções, além de um teste gratuíto de 3 meses. Também será possivel vincular outros sistemas utilizados pela empresa na home, para facilitar a navegação e integração empresarial. 
 
 #### > Finalidade do Projeto 
-propósito(s) que se espera que o projeto atinja.
+Suprir a necessidade de softwares bons e acessíveis no mercado.
 
 #### > Objetivo(s) do Projeto:
 metas claras e mensuráveis e critérios de sucesso relacionados ao projeto.
 
 #### > Prazo
-XX/XX/2023 a XX/XX/2023
+13/02/2023 a 13/02/2024
 
 #### > Equipe nescessária 
-
+Desenvolvedor Front-End, Desenvolvedor Back-End, Ux/Ui, Analista, Gestor. 
 
 #### > Compilance
 
@@ -35,17 +35,21 @@ XX/XX/2023 a XX/XX/2023
 declaração explícita de tudo o que está fora do escopo do projeto.
 
 #### > Premissas do projeto
-pressupostos a respeito do projeto. As estimativas do projeto só são válidas enquanto as premissas se confirmarem verdadeiras.
+Os três sócios continuarão trabalhando no projeto;
+Não será necessário aprender nada muito complicado para executar;
+Todos os membros estarão sempre alinhados;
+
 
 #### > Restrições do Projeto
-Baixo conhecimento inicial da equipe, é necessário considerar um tempo de estudo e de aprendizado para cada parte do projeto
-Baixo tempo disponível da equipe, todos os envolvidos tem trabalho e estudo externo ao projeto que demanda 8+ horas fixas diárias
+Baixo conhecimento inicial da equipe, é necessário considerar um tempo de estudo e de aprendizado para cada parte do projeto;
+Baixo tempo disponível da equipe, todos os envolvidos tem trabalho e estudo externo ao projeto que demanda 8+ horas fixas diárias;
 
 #### > Riscos do projeto
-Baixo tempo destinado pela equipe para execussão do projeto, podendo resultar em atrasos
-Pouco conhecimento da equipe com as demandas necessárias, podendo resultar em atrasos
-Possível inviabilidade de algum membro de continuar no projeto, podendo resultar em atrasos e perda de informações
-Aumento no valor dos softwares necessários, podendo resultar em atrasos e perda de dados ao trocar
+Equipe pequena;
+Baixo tempo destinado pela equipe para execussão do projeto;
+Pouco conhecimento da equipe com as demandas necessárias;
+Possível inviabilidade de algum membro de continuar no projeto;
+Aumento no valor dos softwares necessários, inviabilizando a manuntenção ou contratação do serviço;
 
 https://www.euax.com.br/2019/01/exemplo-de-escopo-de-projeto/
 
