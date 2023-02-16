@@ -12,7 +12,7 @@ O projeto Spaceship é um sistema para abertura de chamados. Ele contará com pl
 Suprir a necessidade de softwares bons e acessíveis no mercado.
 
 #### > Objetivo(s) do Projeto:
-metas claras e mensuráveis e critérios de sucesso relacionados ao projeto.
+* metas claras e mensuráveis e critérios de sucesso relacionados ao projeto.
 
 #### > Prazo
 13/02/2023 a 13/02/2024
@@ -32,7 +32,7 @@ Desenvolvedor Front-End, Desenvolvedor Back-End, Ux/Ui, Analista, Gestor.
 | Layout | Figma |
 
 #### > Exclusões do Projeto: 
-declaração explícita de tudo o que está fora do escopo do projeto.
+Funções que não possuem correlação com a abertura, gerenciamento ou resolução de chamados.
 
 #### > Premissas do projeto
 Os três sócios continuarão trabalhando no projeto;
