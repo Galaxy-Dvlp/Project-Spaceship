@@ -12,7 +12,9 @@ O projeto Spaceship é um sistema para abertura de chamados. Ele contará com pl
 Suprir a necessidade de softwares bons e acessíveis no mercado.
 
 #### > Objetivo(s) do Projeto:
-* metas claras e mensuráveis e critérios de sucesso relacionados ao projeto.
+* Permitir abertura e resolução de chamados de forma clara e simples
+* Gerar relatórios e outros controles de produtividade de forma automática
+* Permitir o cadastro simples e funcional
 
 #### > Prazo
 13/02/2023 a 13/02/2024
@@ -27,7 +29,6 @@ Desenvolvedor Front-End, Desenvolvedor Back-End, Ux/Ui, Analista, Gestor.
 | Documentação | GitHub |
 | Comunicação | Whatsapp, Discord |
 | Organização | Click up |
-| Prototipação | |
 | Programação | Visual Studio Code |
 | Layout | Figma |
 
@@ -35,22 +36,20 @@ Desenvolvedor Front-End, Desenvolvedor Back-End, Ux/Ui, Analista, Gestor.
 Funções que não possuem correlação com a abertura, gerenciamento ou resolução de chamados.
 
 #### > Premissas do projeto
-Os três sócios continuarão trabalhando no projeto;
-Não será necessário aprender nada muito complicado para executar;
-Todos os membros estarão sempre alinhados;
+* Os três sócios continuarão trabalhando no projeto;
+* Não será necessário aprender nada muito complicado para executar;
+* Todos os membros estarão sempre alinhados;
 
 
 #### > Restrições do Projeto
-Baixo conhecimento inicial da equipe, é necessário considerar um tempo de estudo e de aprendizado para cada parte do projeto;
-Baixo tempo disponível da equipe, todos os envolvidos tem trabalho e estudo externo ao projeto que demanda 8+ horas fixas diárias;
+* Baixo conhecimento inicial da equipe, é necessário considerar um tempo de estudo e de aprendizado para cada parte do projeto;
+* Baixo tempo disponível da equipe, todos os envolvidos tem trabalho e estudo externo ao projeto que demanda 8+ horas fixas diárias;
 
 #### > Riscos do projeto
-Equipe pequena;
-Baixo tempo destinado pela equipe para execussão do projeto;
-Pouco conhecimento da equipe com as demandas necessárias;
-Possível inviabilidade de algum membro de continuar no projeto;
-Aumento no valor dos softwares necessários, inviabilizando a manuntenção ou contratação do serviço;
-
-https://www.euax.com.br/2019/01/exemplo-de-escopo-de-projeto/
+* Equipe pequena;
+* Baixo tempo destinado pela equipe para execussão do projeto;
+* Pouco conhecimento da equipe com as demandas necessárias;
+* Possível inviabilidade de algum membro de continuar no projeto;
+* Aumento no valor dos softwares necessários, inviabilizando a manuntenção ou contratação do serviço;
 
 #### > Levantamento de Requisitos
