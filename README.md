@@ -53,3 +53,20 @@ Funções que não possuem correlação com a abertura, gerenciamento ou resolu�
 * Aumento no valor dos softwares necessários, inviabilizando a manuntenção ou contratação do serviço;
 
 #### > Levantamento de Requisitos
+
+| #COD | Requisito Funcional | 
+| :------ | ----------- |
+| #RF001 | Permitir a criação de organizações/Empresas | 
+| #RF002 | Permitir a criação de grupos responsáveis dentro da organização | 
+| #RF003 | Dentro da organização, permitir a criação de categorias de chamados | 
+| #RF004 | Permitir a edição da categoria do chamado, mesmo após aberto |
+| #RF005 | Dentro de categorias, permitir a vinculação de grupo de funcionários responsáveis | 
+| #RF006 | Permitir o loguin do Administrador e responsável como usuário, se necessário | 
+| #RF007 | Permitir o administrador configurar os Inputs necessários para cada categoria de chamado | 
+| #RF008 | Permitir o usuário fazer uma replica ao seu chamado caso não tenha sido resolvido | 
+| #RF009 | Permitir o usuário ver seu histórico de chamados abertos | 
+| #RF010 | Permitir o usuário buscar a opção de chamados ideal por busca direta, filtro, ou árvore | 
+| #RF011 | Permitir que o responsável altere o Status do chamado | 
+| #RF012 | Permitir o responsável de adicionar uma estimativa de resolução | 
+| #RF013 | Permitir o upload de imagens e documentos ao abrir e responder um chamado | 
+| #RF014 | Permitir que o cliente possa contactar os desenvolvedores do projeto | 
